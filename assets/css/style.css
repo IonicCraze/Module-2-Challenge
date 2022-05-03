@@ -295,7 +295,7 @@ footer h3 {
     }
 
     .subtitle {
-        margin-left: 0;
+        margin-left: -10rem;
     }
 
     .github {
