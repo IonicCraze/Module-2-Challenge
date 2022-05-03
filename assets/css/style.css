@@ -293,4 +293,12 @@ footer h3 {
     .bigbox h3 {
         font-size: 1.2rem;
     }
+
+    .subtitle {
+        margin-left: 60%;
+    }
+
+    .github {
+        font-size: 0.75rem;
+    }
 }
